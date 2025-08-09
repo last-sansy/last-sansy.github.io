@@ -1,6 +1,6 @@
 
 
-[![last-sansy](https://img.shields.io/badge/last-sansy-github-blue?logo=github)](https://github.com/last-sansy)
+[![last-sansy](https://img.shields.io/badge/lastsansy-github-blue?logo=github)](https://github.com/last-sansy)
 
 He is currently a master's student studying in the Electronic Information major at Harbin Institute of Technology (Shenzhen).
 
